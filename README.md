@@ -22,6 +22,31 @@ Two interconnected Power BI dashboards for comprehensive NBA player analytics:
 
 ---
 
+## 📸 Dashboard Preview
+
+### NBA Player Performance Overview
+![NBA Player Performance Overview](docs/screenshots/performance_overview.png)
+
+**Features:**
+- 30 NBA team selector (grid layout)
+- 4 player style classifications with visual comparisons
+- Key metrics: PTS (10.23), TRB (4.00), AST (2.55), GmSc (8.37)
+- Performance trend analysis (2024-2025 season)
+- Date and player filters
+
+### NBA Player Fatigue Dashboard
+![NBA Player Fatigue Dashboard](docs/screenshots/fatigue_dashboard.png)
+
+**Features:**
+- Fatigue trend line chart (2024-2025)
+- Performance vs. Fatigue scatter plot with risk classification
+- Player multi-select filter
+- Team filter (currently showing CHI - Chicago Bulls)
+- Year, Quarter, Month hierarchical filtering
+- Risk categories: High (red), Moderate (orange), Low (blue)
+
+---
+
 ## 📦 Data Source
 
 - **Dataset**: NBA Player Stats (Kaggle)
