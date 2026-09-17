@@ -26,6 +26,7 @@ Two interconnected Power BI dashboards for comprehensive NBA player analytics:
 
 ### NBA Player Performance Overview
 ![NBA Player Performance Overview](docs/screenshots/performance_overview.png)
+)
 
 **Features:**
 - 30 NBA team selector (grid layout)
