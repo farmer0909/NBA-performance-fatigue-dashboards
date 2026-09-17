@@ -1,0 +1,31 @@
+# Power BI
+*.pbix.bak
+.cache/
+
+# Data files (optional - if too large)
+data/*.csv
+data/*.xlsx
+!data/README.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python (if adding scripts later)
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+venv/
+env/
+
+# Temporary files
+*.tmp
+*.log
