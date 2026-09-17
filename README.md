@@ -25,8 +25,7 @@ Two interconnected Power BI dashboards for comprehensive NBA player analytics:
 ## 📸 Dashboard Preview
 
 ### NBA Player Performance Overview
-![NBA Player Performance Overview](docs/screenshots/performance_overview.png)
-)
+![NBA Player Performance Overview](Images/performance_overview.png)
 
 **Features:**
 - 30 NBA team selector (grid layout)
@@ -36,7 +35,7 @@ Two interconnected Power BI dashboards for comprehensive NBA player analytics:
 - Date and player filters
 
 ### NBA Player Fatigue Dashboard
-![NBA Player Fatigue Dashboard](docs/screenshots/fatigue_dashboard.png)
+![NBA Player Fatigue Dashboard](Images/Player fatigue.png)
 
 **Features:**
 - Fatigue trend line chart (2024-2025)
