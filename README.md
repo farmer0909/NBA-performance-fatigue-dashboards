@@ -85,14 +85,21 @@ GmSc = PTS + 0.4×FG - 0.7×FGA - 0.4×FTA + 0.7×ORB + 0.3×DRB + STL + 0.7×AS
 ### Fatigue Risk Score
 Based on minutes played, back-to-back games, and performance consistency.
 
-## 🔮 Future Enhancements
+# 🏀 NBA Player Performance & Fatigue Dashboard
 
-- [ ] Add advanced stats (TS%, Usage%, PER — Player Efficiency Rating)
-- [ ] Implement predictive fatigue modeling (regression analysis)
-- [ ] Connect to live NBA API for real-time updates
-- [ ] Add injury/absence correlation analysis
-- [ ] Player salary cap analysis integration
-- [ ] Team strength of schedule visualization
+[⬇️ 点击这里直接下载 Power BI 源文件 (nba.pbix)](./nba.pbix?raw=true)
+
+## 📊 Player Performance Overview
+
+
+![Performance Dashboard](performance.png)
+
+---
+
+## 📉 Player Fatigue Index
+
+
+![Fatigue Dashboard](fatigue.png)
 
 ## 👤 Author
 
@@ -111,3 +118,4 @@ For the dashboard and documentation: [Choose MIT / CC0 / CC-BY-4.0]
 **Have questions or found a bug?**  
 ✉️ Open an issue or reach out!  
 ⭐ If you found this useful, please star the repo!
+
